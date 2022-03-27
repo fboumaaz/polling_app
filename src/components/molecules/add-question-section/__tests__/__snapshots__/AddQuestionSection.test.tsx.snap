@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddQuestionSection component content renders snapshots 1`] = `ShallowWrapper {}`;
+
+exports[`AddQuestionSection component renders snapshots 1`] = `ShallowWrapper {}`;
+
+exports[`AddQuestionSection component when options and question ar not filled yet renders snapshots 1`] = `ShallowWrapper {}`;
+
+exports[`AddQuestionSection component when question && answer are filled renders snapshots 1`] = `ShallowWrapper {}`;
+
+exports[`AddQuestionSection component when question is filled renders snapshots 1`] = `ShallowWrapper {}`;

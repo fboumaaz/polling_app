@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VotingSection component content renders snapshots 1`] = `ShallowWrapper {}`;
+
+exports[`VotingSection component renders snapshots 1`] = `ShallowWrapper {}`;
+
+exports[`VotingSection component when options and question are filled renders snapshots 1`] = `ShallowWrapper {}`;
