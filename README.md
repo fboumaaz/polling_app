@@ -1,9 +1,7 @@
-### polling_app
+# Polling_app
 This project was bootstrapped with Vite boilerplate
 
-# runnuing 
-
-## Available Scripts
+## Steps
 
 In the project directory, you can run:
 
