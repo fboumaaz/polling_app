@@ -57,14 +57,18 @@ const AddQestionSection: FC<Props> = ({
     setOptions([...newOption]);
   };
 
-  const restOptions = (): void => setOptions([]);
+  const restOptions = (): void => {
+    setQuestion('');
+    setOptions([]);
+  };
+
   const OptionsList = (
     options.map((option, index) => (
       <div className="input-group" id="input-group" key={index.toString()}>
         <TextField
           label={`Answer-${index + 1}`}
           variant="standard"
-          key={`field ${index}`}
+          key={`field ${option.id}`}
           id={`${option.id}`}
           defaultValue={option.answer}
           className="text-field"
@@ -117,6 +121,7 @@ const AddQestionSection: FC<Props> = ({
             <TextField
               key="question_key"
               label="What's your question?"
+              value={question}
               onChange={(e) => addQuestion(e.target)}
               variant="standard"
               inputProps={{ maxLength: 80 }}

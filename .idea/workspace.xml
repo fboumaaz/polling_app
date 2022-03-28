@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="744dee8e-d63f-4aaf-99bf-16a38f4f09cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/add-question-section/AddQuestionSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/add-question-section/AddQuestionSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/android/android-launchericon-144-144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/android/android-launchericon-192-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/android/android-launchericon-48-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/android/android-launchericon-512-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/android/android-launchericon-72-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/android/android-launchericon-96-96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ios/87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/LargeTile.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/LargeTile.scale-125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/LargeTile.scale-150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/LargeTile.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/LargeTile.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SmallTile.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SmallTile.scale-125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SmallTile.scale-150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SmallTile.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SmallTile.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SplashScreen.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SplashScreen.scale-125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SplashScreen.scale-150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SplashScreen.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/SplashScreen.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square150x150Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square150x150Logo.scale-125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square150x150Logo.scale-150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square150x150Logo.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square150x150Logo.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.altform-unplated_targetsize-96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.scale-125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.scale-150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Square44x44Logo.targetsize-96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/StoreLogo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/StoreLogo.scale-125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/StoreLogo.scale-150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/StoreLogo.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/StoreLogo.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Wide310x150Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Wide310x150Logo.scale-125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Wide310x150Logo.scale-150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Wide310x150Logo.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/windows11/Wide310x150Logo.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manifest.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26phLOKf8ZEksQwVANeyqstBgDK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/pages" />
+      <recent name="$PROJECT_DIR$/src/components/molecules/voting-section" />
+      <recent name="$PROJECT_DIR$/src/components/molecules/voting-chart" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/molecules/app-drawer" />
+      <recent name="$PROJECT_DIR$/src/components/molecules/add-question-section/__tests__" />
+      <recent name="$PROJECT_DIR$/src/components/molecules/voting-chart/__tests__" />
+      <recent name="$PROJECT_DIR$/src/components/pages/__tests__" />
+      <recent name="$PROJECT_DIR$/src/components/molecules/voting-section/__tests__" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.AppDrawer.test.tsx">
+    <configuration name="AddQuestionSection component.content.call setQuestion when changing TextField question" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/molecules/add-question-section/AddQuestionSection.test.tsx" />
+      <test-names>
+        <test-name value="AddQuestionSection component" />
+        <test-name value="content" />
+        <test-name value="call setQuestion when changing TextField question" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="AddQuestionSection component.when question &amp;&amp; answer are filled.calls setOptions when reset button is clicked" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/molecules/add-question-section/AddQuestionSection.test.tsx" />
+      <test-names>
+        <test-name value="AddQuestionSection component" />
+        <test-name value="when question &amp;&amp; answer are filled" />
+        <test-name value="calls setOptions when reset button is clicked" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="AddQuestionSection component.when question &amp;&amp; answer are filled.lists existing options" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/molecules/add-question-section/AddQuestionSection.test.tsx" />
+      <test-names>
+        <test-name value="AddQuestionSection component" />
+        <test-name value="when question &amp;&amp; answer are filled" />
+        <test-name value="lists existing options" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="AddQuestionSection.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/components/molecules/add-question-section/AddQuestionSection.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AppDrawer.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/components/molecules/app-drawer/__tests__/AppDrawer.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.AppDrawer.test.tsx" />
+        <item itemvalue="Jest.AddQuestionSection.test.tsx" />
+        <item itemvalue="Jest.AddQuestionSection component.content.call setQuestion when changing TextField question" />
+        <item itemvalue="Jest.AddQuestionSection component.when question &amp;&amp; answer are filled.calls setOptions when reset button is clicked" />
+        <item itemvalue="Jest.AddQuestionSection component.when question &amp;&amp; answer are filled.lists existing options" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744dee8e-d63f-4aaf-99bf-16a38f4f09cd" name="Changes" comment="" />
+      <created>1648126377356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648126377356</updated>
+      <workItem from="1648126378462" duration="1132000" />
+      <workItem from="1648199176214" duration="2372000" />
+      <workItem from="1648212090208" duration="56701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
